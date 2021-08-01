@@ -4,12 +4,10 @@ export const useStylesModal = makeStyles((theme) => ({
   modal: {
     width: '100vw',
     height: '100vh',
-    // background: 'rgba(0,0,0,0.4)',
     position: 'fixed',
     top: '100%',
     right: 0,
     zIndex: 100,
-    // transition: '0.5s',
     transition: 'all 600ms cubic-bezier(0.86, 0, 0.07, 1)',
     pointerEvents: 'none',
     opacity: 0,

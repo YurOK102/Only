@@ -143,34 +143,5 @@ export const theme = createTheme({
         lineHeight: '22px',
       },
     },
-
-    // MuiContainer: {
-    //   root: {
-    //     [breakpoints.up('xs')]: {
-    //       padding: '0 12px',
-    //     },
-    //     [breakpoints.up('sm')]: {
-    //       padding: '0 24px',
-    //     },
-    //     [breakpoints.up('md')]: {
-    //       padding: '0 32px',
-    //     },
-    //     [breakpoints.up('xl')]: {
-    //       padding: '0 172px',
-    //     },
-    //   },
-    // },
-    // MuiButton: {
-    //   contained: {
-    //     boxShadow: 'none',
-    //     '&:disabled': {
-    //       color: palette.primary.gray_500,
-    //       backgroundColor: palette.primary.gray_300,
-    //     },
-    //     '&:hover, &:focus': {
-    //       boxShadow: 'none',
-    //     },
-    //   },
-    // },
   },
 });
