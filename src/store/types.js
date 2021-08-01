@@ -1,0 +1,8 @@
+export const actionTypes = {
+  ADD_TASK: 'ADD_TASK',
+  DELETE_TASK: 'DELETE_TASK',
+  EDIT_TASK: 'EDIT_TASK',
+  FIND_ID: 'FIND_ID',
+
+  TOGGLE_MODE: 'TOGGLE_MODE',
+};
